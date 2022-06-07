@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+NOTE: Make sure enable Fake data to App working: json-server --watch data/db.json
